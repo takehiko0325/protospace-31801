@@ -52,10 +52,6 @@ class PrototypesController < ApplicationController
     end 
 
   end
- 
-
-
-
 
 
   def move_to_index
